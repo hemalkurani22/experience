@@ -1,3 +1,5 @@
+NOTE: The contents of this file do not contain any confidential information.
+
 # CarbonSustain
 
 This project includes a prototype design for the CDP Report Design Team.
